@@ -58,12 +58,21 @@ services:
     user: "0"
     ports:
       - "9004:3000"
+    environment:
+      - GF_SERVER_PROTOCOL=https
+      - GF_SERVER_PORT=3000
+      - GF_SERVER_DOMAIN=${GF_SERVER_DOMAIN}
+      - GF_SERVER_ENFORCE_DOMAIN=true
+      - GF_SERVER_ROOT_URL=${GF_SERVER_ROOT_URL}
+      - GF_SERVER_CERT_KEY=/etc/certs/privkey.pem
+      - GF_SERVER_CERT_FILE=/etc/certs/fullchain.pem
     networks:
       - solarnet
     links:
       - influxdb
     volumes:
       - ./grafana-data:/var/lib/grafana
+      - ./.certs:/etc/certs
     restart: always
 
 networks:

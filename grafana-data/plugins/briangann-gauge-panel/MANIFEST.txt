@@ -1,0 +1,57 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "briangann",
+  "signedByOrgName": "Brian Gann",
+  "plugin": "briangann-gauge-panel",
+  "version": "0.0.9",
+  "time": 1619115188231,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "3b1816ccd10b7c8b8d3f98bdef8898ba9534eb158e4aef3fe3be8c06ba33246f",
+    "partials/editor.options.html": "15c639443b14c35cb141d9aee06379c4cf6360ada7ea1ba5ffd280ca086074e7",
+    "partials/template.html": "5d9e659663fd9b3a7a3a43017c4f7fe63973b3f43e2282054bae2f973d63692f",
+    "partials/editor.mappings.html": "2336b7f09bcb92004864b8457fb55291f6561b027324178c643f72191fac84ee",
+    "partials/editor.radialmetrics.html": "8944c127e6abff21eaaae6ac787d63394306547517d68d0ed7740a35dd7fe802",
+    "partials/editor.thresholding.html": "5e97bb9145558950d27c6149e1586cdef907c75a03f8e1c4f617ff103d1d07e5",
+    "module.js": "c5f30efec37e73c41c54c19b7687b7133c6fa79474d325cd7e70faa1d1f71209",
+    "module.js.LICENSE.txt": "0d8f66cd4afb566cb5b7e1540c68f43b939d3eba12ace290f18abc4f4cb53ed0",
+    "light.js.map": "85252610fbf8fecf38a3e13e436b03b1de7bdff8cafda4decbf3f285ad688901",
+    "libs/d3gauge.ts": "07d3232eb0b8000226cddfb7b08af48ae3599dee2b8088c0838afb983447b4e7",
+    "libs/d3gauge.test.ts": "5d2b6ba1a08ff2e82ec7dc7dc9950339d186a93689d48ec9785f9850b99a397c",
+    "module.js.map": "6455dd499791588ef623b0006609d3bc7385a60bb0b5d8111077e56c38f80262",
+    "plugin.json": "3d3c3eb6b93e2e262d4f45b45c2ef91c7d1eebc52b54f0555d9b755dbab7187b",
+    "dark.js": "a32ef165f66860b343ce7cb34539721eb835b5594a253eea9dad489dbc13138d",
+    "README.md": "dbaf844f912fbe61ff4f32ed84dee05127efd2fc232daf7ee20456721ec33e9b",
+    "styles/dark.css": "05b118c53753b6f39a9c06c7f1547e4c768964da21d83104fdaa96eab32e178c",
+    "styles/light.css": "05b118c53753b6f39a9c06c7f1547e4c768964da21d83104fdaa96eab32e178c",
+    "CHANGELOG.md": "fd94f70ceb2684e7dee820bfc02b4c307fd2d2760600988f38fb51506b4487e5",
+    "screenshots/default-gauge-all-thresholds.png": "1fcc9aac728795ffb7ead499ec64dc65df5fab0eafb7971f85b002688294fbf1",
+    "screenshots/radialmetrics.png": "764c7313c32fd5aec2e2624421803f98f055a7efd00b0beaac53c61a72c76272",
+    "screenshots/thresholding.png": "cf2f58ee0bbf900b9003577f6e2d9ec80f196817add6b499dbc031babd3fe375",
+    "screenshots/alt-gauge-limits.png": "c470d5e130cc9976e9f9a94fe808f5c52fb57b6b2a7374e1678b183562e464b3",
+    "screenshots/default-gauge-w-threshold.png": "efd1eed68315aa6e2f52487038a51664b427e2c059e34547002554fc0c0d7176",
+    "screenshots/alt-gauge.png": "ca015be05bf674771ea8e70880306bdca0aaf5e7c819db76ac6a9443114644d6",
+    "screenshots/default-gauge.png": "5ee6cf71e0b750797df2b502c0f5d909fe7325328c1b37a625100d6d71aa4432",
+    "screenshots/options.png": "1d59da9207b05b32fa9d2040eba145eab1f325fb21ea2dd04427c768eda33a4d",
+    "screenshots/options-limits.png": "c2e2796f463853fc3f6da907b1af34aa40200e4bad3c2cc9f946ac783ea199d8",
+    "dark.js.map": "5f490a7077ec91fb5323ae8027d18da047714f24814ce30185826e9283c5fbd8",
+    "img/logo-credit.html": "44ea34b46fc8538cec8193f3dbd1b9fa56f297b10d53f8c9176dfd73308fe920",
+    "img/Logo_D3.svg": "dd311b3974f94853fe908e1f9ec503d82182828bc5bccbfbaafbe71f76000abf",
+    "light.js": "7dc0e7116b8ec8a79b62eee8814f1ce0dbe753975574923a30482a199dbf9e1a"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqIEARMKAAYFAmCBvLQACgkQfk0ManCIZufJmQIJARs6jb/vWCQq/FxASjPN
+nsR6omd0o4yiGe+OsCpGct3bmaGh4+6+m2DZDwobYThUitMJZWlbD9RUj387
+SpSTJO2qAgkB3m07g/sn1YiGM/Zgrog8JZ5/VCR34zJUHtGao16k1uKvGVE0
+JGGS7QDB4/U5NDiEaVGJdLI+mGj7e7jTMMXb46k=
+=JgSJ
+-----END PGP SIGNATURE-----

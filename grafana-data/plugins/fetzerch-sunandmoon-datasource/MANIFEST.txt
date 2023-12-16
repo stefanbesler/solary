@@ -1,0 +1,37 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "fetzerch",
+  "signedByOrgName": "Christian Fetzer",
+  "plugin": "fetzerch-sunandmoon-datasource",
+  "version": "0.3.0",
+  "time": 1668202811571,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "module.js.LICENSE.txt": "cdf963ced7d25a0f98901a547647b4d6e2dbe0197fd78c87a059a87b0e542fe2",
+    "module.js.map": "a9b1f261e01fcf1b694de16c08db16609bbb8b679ab6efbbd3a46f0c28fbd2df",
+    "LICENSE": "30895a35e0bcf778bfe4666addc8465cf3dcb16ad5921adcc0b8ccd4422b571b",
+    "README.md": "273d2a9cf6562999c9e03ab83ebb65ba0024e5a629bc230b3bd40d418a5ab390",
+    "plugin.json": "70bb57637c80119bcdfcbdebb7f67011b367994aab4be85fc11b7b23eeb6a98a",
+    "module.js": "ef10e700ab0c64cab27122ddf0c89696b41a6c319d10e690934af1ff68f40526",
+    "CHANGELOG.md": "45bd51fe4fafea0a883fba9ab248d174e6b87b98573489b01ba688c0466c0641",
+    "img/configuration.png": "84dab0b1c24a6f475117dd8cee79e66d91a8bb755f9035f71b5c888a2b264b94",
+    "img/screenshot.png": "164e34a2105c9f0d34cb2616bf5226227071f5ed1e40cc5f20e43ff2d91efdbe",
+    "img/logo.png": "701c5a092dbef531b63c4f0bbf06fae93506437161a81e2f614141acabbc771a"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrgEARMKAAYFAmNuwTsAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5zUJAgiKNbV0+h3sxuo8HQuA9spj3baywRIoZ6ueS2UO60m6YCezN8Bo
+uHPXtY/uP5MUYsqu4TWftKOhQxvsmgEUIUBgrQIJATbBnsEpTzc705WWGdh8
+lYYcs21fuoAn+sI5gMyTvm5mobAqEBHlgODS0RW3lqOWkuOvXLjvWgMCp/LS
+keyMceBd
+=UzE8
+-----END PGP SIGNATURE-----

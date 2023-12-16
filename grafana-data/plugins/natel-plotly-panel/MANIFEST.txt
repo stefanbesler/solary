@@ -1,0 +1,44 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "community",
+  "signedByOrg": "natel",
+  "signedByOrgName": "Natel Energy",
+  "plugin": "natel-plotly-panel",
+  "version": "0.0.7",
+  "time": 1622029439971,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "5412d331491aa9b555302b7ef997b743feba1332973ee16e1ac04d834aecfc65",
+    "module.js.map": "b53994c9b0d425b4be77c0d550715f6d14e24ba4a05652730df58851282285d3",
+    "plugin.json": "21bc671d9f6d6f46d8a4045b486d1f900ac51e640ae97f22304c54b86b4d70ea",
+    "README.md": "d87c8d17f6b1732d71877b33a46ba14f442b2028b4d1f16dabb7d995ac1be9b5",
+    "img/screenshot-options.png": "77919c90a27cce24d353ca87cca7821b802049be6f1dbee09f0e726e9635c68e",
+    "img/screenshot-options-new.png": "9b699d8cd6de329b9884c289a32383a31846ffeedd2e44a738550d8d78747582",
+    "img/screenshot-single-trace.png": "411b9727ce7b558cc056c9c60714476a7e8a146e4810fd5499b1b2cb538b747a",
+    "img/plotly_logo.svg": "7fe59a99d31873d207aad6e6b04b0131c5c4024e349a7960ddcca15b3e39ddb0",
+    "img/screenshot-scatter-1.png": "818d3ac6b4aa28db2cbd56a1a7da16f73911f93c5e113c5b24b21ad7263daf74",
+    "img/screenshot-scatter.png": "1be4efe3883931200f7ccc5ee4665f4e686b036663f7e1f59ab0a951c10d6908",
+    "img/screenshot-scatter-3d.png": "d926d0e37134b3f739bfe966920cfa694c9de56ff62c6d830bd196b82489feb2",
+    "img/screenshot-multiple-trace.png": "973506b33bbcd09de5a5991b440ac6de3b30d94768a0fa424488a3a41e975a87",
+    "module.js": "5dd97313979b264f04ab904526e590c670b031bb5ffb743d152f851d15e307b8",
+    "lib/plotly.min.js": "af06677cff2acbc483a98b10abc5184f3d4b4a270b2c3a6a1e498c54ff6a335f",
+    "lib/plotly-cartesian.min.js": "d2a2505dbb27d2b9b333eebb210e8068894260f4b591ce4cd68c6bf5c2da3e0f",
+    "partials/tab_display.html": "01262e37232d22563ce24e2969c216de2208fe66866d3b127eec34c47e57aad4",
+    "partials/module.html": "a73720f44b4dba1067f4b17b3c1d4806168234ed7e37f88f0dc3cab014e0552e",
+    "partials/tab_traces.html": "a518596367142397f686fd8e81ee272e4b461baeee8da50edbbd4cc3b5ecb12f"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqAEARMKAAYFAmCuNIAACgkQfk0ManCIZuetVQIHeKb01CWrETCWFutMgG+t
+REqpLGB40bIFcLEC5jynlMz1MN73BmJCd/7tI3MIbcT5MiqVfWwTaVmvsvxX
+HQ/zwjYCCJHI1+dWsDCL/of5W4u9K0uDDIbSjoBlPglocp9chHwdCJov4KuI
+EpV/pIn+KvqlpJjPG/nG3Zwc71vwlanYlMPX
+=8cxe
+-----END PGP SIGNATURE-----
