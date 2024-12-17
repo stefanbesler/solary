@@ -1,78 +1,72 @@
-weiterverrechnung	unit=Euro type=actual cost=-52.00 1609455600
-grundsteuer	unit=Euro type=actual cost=-353.68 1609455600
-muellabfuhr	unit=Euro type=actual cost=684.18 1609455600
-versicherung_gebaeude	unit=Euro type=actual cost=1541.92 1609455600
-strom	unit=Euro type=actual cost=837.20 1609455600
-hausbetreuung	unit=Euro type=actual cost=6594.44 1609455600
-winterdienst unit=Euro type=actual cost=1498.18 1609455600
-wartungen	unit=Euro type=actual cost=321.61 1609455600
-instandhaltung unit=Euro type=actual cost=168.10 1609455600
-verwaltung unit=Euro type=actual cost=1980.60 1609455600
-bankspesen unit=Euro type=actual cost=173.10 1609455600
-
-grundsteuer	unit=Euro type=actual cost=396.32 1640991600
-muellabfuhr	unit=Euro type=actual cost=671.73 1640991600
-versicherung_gebaeude	unit=Euro type=actual cost=1558.22 1640991600
-strom	unit=Euro type=actual cost=4507.72 1640991600
-hausbetreuung	unit=Euro type=actual cost=7500.00 1640991600
-winterdienst unit=Euro type=actual cost=2624.27 1640991600
-wartungen	unit=Euro type=actual cost=1554.25 1640991600
-instandhaltung unit=Euro type=actual cost=523.04 1640991600
-verwaltung unit=Euro type=actual cost=2009.77 1640991600
-bankspesen unit=Euro type=actual cost=161.02 1640991600
-
-grundsteuer	unit=Euro type=forecast cost=396.32 1672527600
-muellabfuhr	unit=Euro type=forecast cost=750.00 1672527600
-versicherung_gebaeude	unit=Euro type=forecast cost=1750.00 1672527600
-strom	unit=Euro type=forecast cost=3725.00 1672527600
-hausbetreuung	unit=Euro type=forecast cost=9000.00 1672527600
-winterdienst unit=Euro type=forecast cost=2700.00 1672527600
-wartungen	unit=Euro type=forecast cost=2800.00 1672527600
-instandhaltung unit=Euro type=forecast cost=1316.54 1672527600
-verwaltung unit=Euro type=forecast cost=2250.00 1672527600
-bankspesen unit=Euro type=forecast cost=200.00 1672527600
-
-grundsteuer	unit=Euro type=actual cost=396.32 1672527600
-muellabfuhr	unit=Euro type=actual cost=659.27 1672527600
-versicherung_gebaeude	unit=Euro type=actual cost=1674.98 1672527600
-strom	unit=Euro type=actual cost=3559.57 1672527600
-hausbetreuung	unit=Euro type=actual cost=7700.00 1672527600
-winterdienst unit=Euro type=actual cost=1668.00 1672527600
-wartungen	unit=Euro type=actual cost=1118.81 1672527600
-instandhaltung unit=Euro type=actual cost=1788.23 1672527600
-verwaltung unit=Euro type=actual cost=2064.96 1672527600
-bankspesen unit=Euro type=actual cost=174.59 1672527600
-
-grundsteuer	unit=Euro type=forecast cost=396.32 1704063600
-muellabfuhr	unit=Euro type=forecast cost=670.00 1704063600
-versicherung_gebaeude	unit=Euro type=forecast cost=1900.00 1704063600
-strom	unit=Euro type=forecast cost=3250.00 1704063600
-hausbetreuung	unit=Euro type=forecast cost=0.00 1704063600
-winterdienst unit=Euro type=forecast cost=3800.00 1704063600
-wartungen	unit=Euro type=forecast cost=2200.00 1704063600
-instandhaltung unit=Euro type=forecast cost=900.00 1704063600
-verwaltung unit=Euro type=forecast cost=2250.00 1704063600
-bankspesen unit=Euro type=forecast cost=200.00 1704063600
-
-grundsteuer	unit=Euro type=actual cost=396.32 1704063600
-muellabfuhr	unit=Euro type=actual cost=608.18 1704063600
-versicherung_gebaeude	unit=Euro type=actual cost=1841.60 1704063600
-strom	unit=Euro type=actual cost=3794.02 1704063600
-hausbetreuung	unit=Euro type=forecast cost=0.00 1704063600
-winterdienst unit=Euro type=actual cost=3802.00 1704063600
-wartungen	unit=Euro type=actual cost=2330.76 1704063600
-instandhaltung unit=Euro type=actual cost=4116.68 1704063600
-verwaltung unit=Euro type=actual cost=2242.68 1704063600
-bankspesen unit=Euro type=actual cost=191.86 1704063600
-
-grundsteuer unit=Euro type=forecast cost=396.32 1735686000
-muellabfuhr unit=Euro type=forecast cost=700.00 1735686000
-versicherung_gebaeude	type=forecast unit=Euro cost=2100.00 1735686000
-strom	unit=Euro type=forecast cost=2800.00 1735686000
-hausbetreuung	unit=Euro type=forecast cost=0.00 1735686000
-winterdienst type=forecast unit=Euro cost=3500.00 1735686000
-betriebskosten_pv type=forecast unit=Euro cost=60.00 1735686000
-wartungen	unit=Euro type=forecast cost=3500.00 1735686000
-instandhaltung unit=Euro type=forecast cost=1000.00 1735686000
-verwaltung unit=Euro type=forecast cost=2400.00 1735686000
-bankspesen unit=Euro type=forecast cost=200.00 1735686000
+weiterverrechnung,unit=Euro,type=actual cost=-52.00 1609455600
+grundsteuer,unit=Euro,type=actual cost=-353.68 1609455600
+muellabfuhr,unit=Euro,type=actual cost=684.18 1609455600
+versicherung_gebaeude,unit=Euro,type=actual cost=1541.92 1609455600
+strom,unit=Euro,type=actual cost=837.20 1609455600
+hausbetreuung,unit=Euro,type=actual cost=6594.44 1609455600
+winterdienst,unit=Euro,type=actual cost=1498.18 1609455600
+wartungen,unit=Euro,type=actual cost=321.61 1609455600
+instandhaltung,unit=Euro,type=actual cost=168.10 1609455600
+verwaltung,unit=Euro,type=actual cost=1980.60 1609455600
+bankspesen,unit=Euro,type=actual cost=173.10 1609455600
+grundsteuer,unit=Euro,type=actual cost=396.32 1640991600
+muellabfuhr,unit=Euro,type=actual cost=671.73 1640991600
+versicherung_gebaeude,unit=Euro,type=actual cost=1558.22 1640991600
+strom,unit=Euro,type=actual cost=4507.72 1640991600
+hausbetreuung,unit=Euro,type=actual cost=7500.00 1640991600
+winterdienst,unit=Euro,type=actual cost=2624.27 1640991600
+wartungen,unit=Euro,type=actual cost=1554.25 1640991600
+instandhaltung,unit=Euro,type=actual cost=523.04 1640991600
+verwaltung,unit=Euro,type=actual cost=2009.77 1640991600
+bankspesen,unit=Euro,type=actual cost=161.02 1640991600
+grundsteuer,unit=Euro,type=forecast cost=396.32 1672527600
+muellabfuhr,unit=Euro,type=forecast cost=750.00 1672527600
+versicherung_gebaeude,unit=Euro,type=forecast cost=1750.00 1672527600
+strom,unit=Euro,type=forecast cost=3725.00 1672527600
+hausbetreuung,unit=Euro,type=forecast cost=9000.00 1672527600
+winterdienst,unit=Euro,type=forecast cost=2700.00 1672527600
+wartungen,unit=Euro,type=forecast cost=2800.00 1672527600
+instandhaltung,unit=Euro,type=forecast cost=1316.54 1672527600
+verwaltung,unit=Euro,type=forecast cost=2250.00 1672527600
+bankspesen,unit=Euro,type=forecast cost=200.00 1672527600
+grundsteuer,unit=Euro,type=actual cost=396.32 1672527600
+muellabfuhr,unit=Euro,type=actual cost=659.27 1672527600
+versicherung_gebaeude,unit=Euro,type=actual cost=1674.98 1672527600
+strom,unit=Euro,type=actual cost=3559.57 1672527600
+hausbetreuung,unit=Euro,type=actual cost=7700.00 1672527600
+winterdienst,unit=Euro,type=actual cost=1668.00 1672527600
+wartungen,unit=Euro,type=actual cost=1118.81 1672527600
+instandhaltung,unit=Euro,type=actual cost=1788.23 1672527600
+verwaltung,unit=Euro,type=actual cost=2064.96 1672527600
+bankspesen,unit=Euro,type=actual cost=174.59 1672527600
+grundsteuer,unit=Euro,type=forecast cost=396.32 1704063600
+muellabfuhr,unit=Euro,type=forecast cost=670.00 1704063600
+versicherung_gebaeude,unit=Euro,type=forecast cost=1900.00 1704063600
+strom,unit=Euro,type=forecast cost=3250.00 1704063600
+hausbetreuung,unit=Euro,type=forecast cost=0.00 1704063600
+winterdienst,unit=Euro,type=forecast cost=3800.00 1704063600
+wartungen,unit=Euro,type=forecast cost=2200.00 1704063600
+instandhaltung,unit=Euro,type=forecast cost=900.00 1704063600
+verwaltung,unit=Euro,type=forecast cost=2250.00 1704063600
+bankspesen,unit=Euro,type=forecast cost=200.00 1704063600
+grundsteuer,unit=Euro,type=actual cost=396.32 1704063600
+muellabfuhr,unit=Euro,type=actual cost=608.18 1704063600
+versicherung_gebaeude,unit=Euro,type=actual cost=1841.60 1704063600
+strom,unit=Euro,type=actual cost=3794.02 1704063600
+hausbetreuung,unit=Euro,type=forecast cost=0.00 1704063600
+winterdienst,unit=Euro,type=actual cost=3802.00 1704063600
+wartungen,unit=Euro,type=actual cost=2330.76 1704063600
+instandhaltung,unit=Euro,type=actual cost=4116.68 1704063600
+verwaltung,unit=Euro,type=actual cost=2242.68 1704063600
+bankspesen,unit=Euro,type=actual cost=191.86 1704063600
+grundsteuer,unit=Euro,type=forecast cost=396.32 1735686000
+muellabfuhr,unit=Euro,type=forecast cost=700.00 1735686000
+versicherung_gebaeude,type=forecast,unit=Euro cost=2100.00 1735686000
+strom,unit=Euro,type=forecast cost=2800.00 1735686000
+hausbetreuung,unit=Euro,type=forecast cost=0.00 1735686000
+winterdienst,type=forecast,unit=Euro cost=3500.00 1735686000
+betriebskosten_pv,unit=Euro,type=forecast  cost=60.00 1735686000
+wartungen,unit=Euro,type=forecast cost=3500.00 1735686000
+instandhaltung,unit=Euro,type=forecast cost=1000.00 1735686000
+verwaltung,unit=Euro,type=forecast cost=2400.00 1735686000
+bankspesen,unit=Euro,type=forecast cost=200.00 1735686000
