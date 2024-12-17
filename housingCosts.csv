@@ -1,3 +1,26 @@
+weiterverrechnung	unit=Euro type=actual cost=-52.00 1609455600
+grundsteuer	unit=Euro type=actual cost=-353.68 1609455600
+muellabfuhr	unit=Euro type=actual cost=684.18 1609455600
+versicherung_gebaeude	unit=Euro type=actual cost=1541.92 1609455600
+strom	unit=Euro type=actual cost=837.20 1609455600
+hausbetreuung	unit=Euro type=actual cost=6594.44 1609455600
+winterdienst unit=Euro type=actual cost=1498.18 1609455600
+wartungen	unit=Euro type=actual cost=321.61 1609455600
+instandhaltung unit=Euro type=actual cost=168.10 1609455600
+verwaltung unit=Euro type=actual cost=1980.60 1609455600
+bankspesen unit=Euro type=actual cost=173.10 1609455600
+
+grundsteuer	unit=Euro type=actual cost=396.32 1640991600
+muellabfuhr	unit=Euro type=actual cost=671.73 1640991600
+versicherung_gebaeude	unit=Euro type=actual cost=1558.22 1640991600
+strom	unit=Euro type=actual cost=4507.72 1640991600
+hausbetreuung	unit=Euro type=actual cost=7500.00 1640991600
+winterdienst unit=Euro type=actual cost=2624.27 1640991600
+wartungen	unit=Euro type=actual cost=1554.25 1640991600
+instandhaltung unit=Euro type=actual cost=523.04 1640991600
+verwaltung unit=Euro type=actual cost=2009.77 1640991600
+bankspesen unit=Euro type=actual cost=161.02 1640991600
+
 grundsteuer	unit=Euro type=forecast cost=396.32 1672527600
 muellabfuhr	unit=Euro type=forecast cost=750.00 1672527600
 versicherung_gebaeude	unit=Euro type=forecast cost=1750.00 1672527600
