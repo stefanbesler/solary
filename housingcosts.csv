@@ -26,8 +26,8 @@ ruecklage,reason="Erlöse\ Rücklage\ (inkl.\ Einmalzahlungen\ für\ PV)" sum=10
 ruecklage,reason="Rückzahlung\ Doppelüberweisung\ Abzüglich\ Schlussrechnung\ :\ RE\ Nr",tag="PV" sum=16166.72 1702335600
 ruecklage,reason="Erhaltene\ PV\ Förderung\ Gemeinde\ Sistrans\ abzüglich\ HOT\ -\ Sim\ Ka",tag="PV" sum=1498.01 1704409200
 ruecklage,reason="Einmalzuschuss\ Wohnhaussanierung\ PV-Anlage",tag="PV" sum=5000 1705273200
-ruecklage,reason="doppelt\ überwiesene\ RE\ 230186",tag="PV" sum=7518.48 1706655600
-ruecklage,reason="doppelt\ überwiesene\ RE\ 230186",tag="PV" sum=3444 1718229600
+ruecklage,reason="doppelt\ überwiesene\ RE\ 230186" sum=7518.48 1706655600
+ruecklage,reason="doppelt\ überwiesene\ RE\ 230186" sum=3444 1718229600
 
 ruecklage,reason="Umsatzsteuer-Ausgleich\ Rücklage\ (nicht\ Wohnzwecke)" sum=833.52 1718229600
 ruecklage,reason="Habenzinsen\ Rücklagenkonto" sum=132.81 1735599600
