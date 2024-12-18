@@ -10,23 +10,24 @@ betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfu
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=700.00,versicherung_gebaeude=2100.00,strom=2800.00,hausbetreuung=0.00,winterdienst=3500.00,betriebskosten_pv=60.0,wartungen=3500.00,instandhaltung=1000.00,verwaltung=2400.00,bankspesen=200.00,ruecklage=5868.00     1735686000
 
 ruecklage,reason="Guthaben" sum=7134.55 1577746800
-ruecklage,reason="Cent-Ausgleich" sum=-3.4 1597269600
-ruecklage,reason="Einbau Heizungsregelung" sum=-1300 1597269600
-ruecklage,reason="H&H Putz OG / Fassaden Sanierung" sum=-2886.40 1653256800
-ruecklage,reason="WalcherTec Elektrotechnik e.U. / PV Anlage" sum=-29606.50 1695679200
-ruecklage,reason="Vergebührung Errichtung Photovoltaikanlage" sum=-89.75 1697061600
-ruecklage,reason="Netz-Zutrittsentgelt - Photovoltaikanlage" sum=-470 1698706800
-ruecklage,reason="WalcherTec Elektrotechnik e.U. / PV Anlage 11/23" sum=-23685.20 1699916400
-ruecklage,reason="WalcherTec Elektrotechnik e.U. / 2. Teilrechnung PV Anlage" sum=-19737.67 1699916400
-ruecklage,reason="WalcherTec Elektrotechnik e.U. / Schlussrechnung PV-Anlage" sum=-6265.40 1702335600
+ruecklage,reason="Cent\ Ausgleich" sum=-3.4 1597269600
+ruecklage,reason="Einbau\ Heizungsregelung" sum=-1300 1597269600
+ruecklage,reason="H&H\ Putz\ OG\ /\ Fassaden\ Sanierung" sum=-2886.40 1653256800
+ruecklage,reason="WalcherTec\ Elektrotechnik\ e.U.\ /\ PV\ Anlage",tag="PV" sum=-29606.50 1695679200
+ruecklage,reason="Vergebührung\ Errichtung\ Photovoltaikanlage",tag="PV" sum=-89.75 1697061600
+ruecklage,reason="Netz-Zutrittsentgelt\ -\ Photovoltaikanlage",tag="PV" sum=-470 1698706800
+ruecklage,reason="WalcherTec\ Elektrotechnik\ e.U.\ /\ PV\ Anlage\ 11/23",tag="PV" sum=-23685.20 1699916400
+ruecklage,reason="WalcherTec\ Elektrotechnik\ e.U.\ /\ 2.\ Teilrechnung\ PV\ Anlage",tag="PV" sum=-19737.67 1699916400
+ruecklage,reason="WalcherTec\ Elektrotechnik\ e.U.\ /\ Schlussrechnung\ PV-Anlage",tag="PV" sum=-6265.40 1702335600
 ruecklage,reason="KESt" sum=-33.21 1735599600
-ruecklage,reason="Umsatzsteuer 10% - (Wohnzweck)" sum=-7570.58 1735599600
-ruecklage,reason="Umsatzsteuer 20% - (nicht Wohnzweck)" sum=-1667.07 1735599600
-ruecklage,reason="Erlöse Rücklage (inkl. Einmalzahlungen für PV)" sum=100395.58 1672527600
-ruecklage,reason="Rückzahlung Doppelüberweisung Abzüglich Schlussrechnung : RE Nr" sum=16166.72 1702335600
-ruecklage,reason="Erhaltene PV Förderung Gemeinde Sistrans abzüglich HOT - Sim Ka" sum=1498.01 1704409200
-ruecklage,reason="Einmalzuschuss Wohnhaussanierung PV-Anlage" sum=5000 1705273200
-ruecklage,reason="doppelt überwiesene RE 230186" sum=7518.48 1706655600
-ruecklage,reason="doppelt überwiesene RE 230186" sum=3444 1718229600
-ruecklage,reason="Umsatzsteuer-Ausgleich Rücklage (nicht Wohnzwecke)" sum=833.52 1718229600
-ruecklage,reason="Habenzinsen Rücklagenkonto" sum=132.81 1735599600
+ruecklage,reason="Umsatzsteuer\ 10%\ -\ (Wohnzweck)" sum=-7570.58 1735599600
+ruecklage,reason="Umsatzsteuer\ 20%\ -\ (nicht\ Wohnzweck)" sum=-1667.07 1735599600
+ruecklage,reason="Erlöse\ Rücklage\ (inkl.\ Einmalzahlungen\ für\ PV)" sum=100395.58 1672527600
+ruecklage,reason="Rückzahlung\ Doppelüberweisung\ Abzüglich\ Schlussrechnung\ :\ RE\ Nr",tag="PV" sum=16166.72 1702335600
+ruecklage,reason="Erhaltene\ PV\ Förderung\ Gemeinde\ Sistrans\ abzüglich\ HOT\ -\ Sim\ Ka",tag="PV" sum=1498.01 1704409200
+ruecklage,reason="Einmalzuschuss\ Wohnhaussanierung\ PV-Anlage",tag="PV" sum=5000 1705273200
+ruecklage,reason="doppelt\ überwiesene\ RE\ 230186",tag="PV" sum=7518.48 1706655600
+ruecklage,reason="doppelt\ überwiesene\ RE\ 230186",tag="PV" sum=3444 1718229600
+
+ruecklage,reason="Umsatzsteuer-Ausgleich\ Rücklage\ (nicht\ Wohnzwecke)" sum=833.52 1718229600
+ruecklage,reason="Habenzinsen\ Rücklagenkonto" sum=132.81 1735599600
