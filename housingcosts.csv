@@ -7,6 +7,7 @@ betriebskosten,type=actual weiterverrechnung=-0.00,grundsteuer=396.32,muellabfuh
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=750.00,versicherung_gebaeude=1750.00,strom=3725.00,hausbetreuung=9000.00,winterdienst=2700.00,wartungen=2800.00,instandhaltung=1316.54,verwaltung=2250.00,bankspesen=200.00,ruecklage=5868.00     1672527600
 betriebskosten,type=actual weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=608.18,versicherung_gebaeude=1841.60,strom=3794.02,hausbetreuung=0.00,winterdienst=3802.00,wartungen=2330.76,instandhaltung=4116.68,verwaltung=2242.68,bankspesen=191.86,ruecklage=5868.00     1672527600
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=670.00,versicherung_gebaeude=1900.00,strom=3559.57,hausbetreuung=0.00,winterdienst=3800.00,wartungen=2200.00,instandhaltung=900.00,verwaltung=2250.00,bankspesen=200.00,ruecklage=5868.00     1704063600
+betriebskosten,type=actual weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=320.26,versicherung_gebaeude=1964.65,strom=1336.48,hausbetreuung=0.00,winterdienst=3250.00,betriebskosten_pv=63.2,wartungen=2612.12,instandhaltung=2521.18,verwaltung=2415.84,bankspesen=197.06,ruecklage=5868.00     1704063600
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=700.00,versicherung_gebaeude=2100.00,strom=2800.00,hausbetreuung=0.00,winterdienst=3500.00,betriebskosten_pv=60.0,wartungen=3500.00,instandhaltung=1000.00,verwaltung=2400.00,bankspesen=200.00,ruecklage=5868.00     1735686000
 
 ruecklage,reason="Guthaben" sum=7134.55 1577746800
@@ -28,6 +29,5 @@ ruecklage,reason="Erhaltene\ PV\ Förderung\ Gemeinde\ Sistrans\ abzüglich\ HOT
 ruecklage,reason="Einmalzuschuss\ Wohnhaussanierung\ PV-Anlage",tag="PV" sum=5000 1705273200
 ruecklage,reason="doppelt\ überwiesene\ RE\ 230186" sum=7518.48 1706655600
 ruecklage,reason="doppelt\ überwiesene\ RE\ 230186" sum=3444 1718229600
-
 ruecklage,reason="Umsatzsteuer-Ausgleich\ Rücklage\ (nicht\ Wohnzwecke)" sum=833.52 1718229600
-ruecklage,reason="Habenzinsen\ Rücklagenkonto" sum=132.81 1735599600
+ruecklage,reason="Habenzinsen\ Rücklagenkonto" sum=290.09 1735599600
