@@ -9,7 +9,6 @@ betriebskosten,type=actual weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=670.00,versicherung_gebaeude=1900.00,strom=3559.57,hausbetreuung=0.00,winterdienst=3800.00,wartungen=2200.00,instandhaltung=900.00,verwaltung=2250.00,bankspesen=200.00,ruecklage=5868.00     1704063600
 betriebskosten,type=actual weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=320.26,versicherung_gebaeude=1964.65,strom=1336.48,hausbetreuung=0.00,winterdienst=3250.00,betriebskosten_pv=63.2,wartungen=2612.12,instandhaltung=2521.18,verwaltung=2415.84,bankspesen=197.06,ruecklage=5868.00     1704063600
 betriebskosten,type=forecast weiterverrechnung=0.00,grundsteuer=396.32,muellabfuhr=700.00,versicherung_gebaeude=2100.00,strom=2800.00,hausbetreuung=0.00,winterdienst=3500.00,betriebskosten_pv=60.0,wartungen=3500.00,instandhaltung=1000.00,verwaltung=2400.00,bankspesen=200.00,ruecklage=5868.00     1735686000
-
 ruecklage,reason="Guthaben" sum=7134.55 1577746800
 ruecklage,reason="Cent\ Ausgleich" sum=-3.4 1597269600
 ruecklage,reason="Einbau\ Heizungsregelung" sum=-1300 1597269600
